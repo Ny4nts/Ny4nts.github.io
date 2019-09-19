@@ -16,7 +16,7 @@ Email：pixel8@aliyun.com
 WeChat：z-null
 
 
-### |相关运维学习链接
+### |运维开发相关链接
 [后端云](https://www.backendcloud.cn)
 [运维日志](https://www.centos.bz)
 [Nginx开发](http://tengine.taobao.org/book/index.html
