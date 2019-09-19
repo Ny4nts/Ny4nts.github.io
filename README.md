@@ -6,12 +6,12 @@
 
 
 ### |个人简历
-[我的简历（暂未上传）](https://github.com/#)
+[我的简历](https://Ny4nts.github.io/OpenStack devops.pdf)
 
 
 
 ### |联系方式
-Email：pixel8@qq.com
+Email：pixel8@aliyun.com
 
 WeChat：z-null
 
