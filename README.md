@@ -1,12 +1,12 @@
-## |欢迎来到我的Github主页
+## |欢迎来到CHENG FENG的Github主页
 
 [首页](https://ny4nts.github.io/) 
 
-[点击这里查看我创建的小项目](https://github.com/Ny4nts/)
+[点击这里查看他创建的小项目](https://github.com/Ny4nts/)
 
 
 ### |个人简历
-[我的简历](https://Ny4nts.github.io/OpenStack devops.pdf)
+[查看简历](https://Ny4nts.github.io/OpenStack devops.pdf)
 
 
 
