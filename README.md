@@ -6,7 +6,7 @@
 
 
 ### |个人简历
-[查看简历](https://Ny4nts.github.io/OpenStack devops.pdf)
+[查看简历](https://Ny4nts.github.io/)
 
 
 
